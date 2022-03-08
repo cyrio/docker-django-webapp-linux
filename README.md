@@ -1,4 +1,4 @@
-# Django starter app for Web App on Linux
+# Formation Fitec Devops
 
 A simple Python Django application running in a Docker container. The custom image uses port 8000. 
 
@@ -7,3 +7,4 @@ A simple Python Django application running in a Docker container. The custom ima
 - Configure your web app to custom image 
 - Add an App Setting ```WEBSITES_PORT = 8000 ``` for your app 
 - Browse your site
+
